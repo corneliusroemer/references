@@ -31,7 +31,7 @@ Cmd-u
 ```
 
 ## Favourite browser extensions
-- **Vimium**: enables browser navigation by keybard
+- **Vimium**: enables browser navigation by keyboard
 
 ## MacOS productivity tools
 - **Paste**: provides searchable clipboard history 
