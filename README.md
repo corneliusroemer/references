@@ -29,6 +29,10 @@ Cmd-u
 
 ⌥ = Alt = Meta
 ```
+## VS Code Shortcuts
+```
+⌥ z             Toggle wrap-lines
+```
 
 ## Favourite browser extensions
 - **Vimium**: enables browser navigation by keyboard
