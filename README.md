@@ -33,6 +33,10 @@ Cmd-u
 ```
 ⌥ z             Toggle wrap-lines
 ```
+### Pylance Import Problems
+In `.vscode` set `"python.analysis.useImportHeuristic": true`
+
+Alternative: add `"python.analysis.extraPaths": ["./sources"]` with link to path with modules.
 
 ## Favourite browser extensions
 - **Vimium**: enables browser navigation by keyboard
