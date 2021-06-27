@@ -43,3 +43,31 @@ Alternative: add `"python.analysis.extraPaths": ["./sources"]` with link to path
 
 ## MacOS productivity tools
 - **Paste**: provides searchable clipboard history 
+
+## Fish setup on Mac
+- Switch iTerm color profile: https://stackoverflow.com/a/43018512/7483211
+- Set Fish as default:
+```
+echo /usr/local/bin/fish | sudo tee -a /etc/shells
+chsh -s /usr/local/bin/fish
+```
+- Install `fisher`
+- Read https://switowski.com/blog/favorite-cli-tools
+
+- Copy over .config files
+
+- Settings:
+    - AWS off
+    - Ayu mirage as theme
+    - Starship prompt
+    - iTerm Pastel > better is snazzy
+    - brew tap homebrew/cask-fonts
+    - brew install --cask font-fira-code-nerd-font
+    - fzf
+    - gitalias: https://github.com/GitAlias/gitalias
+    - fd
+    - ripgrep
+    - glances
+    - https://switowski.com/blog/favorite-cli-tools
+
+
